@@ -12,6 +12,4 @@ class HomeTableViewCell: UITableViewCell {
     
     @IBOutlet weak var testlabel: UILabel!
     
-    
-
 }

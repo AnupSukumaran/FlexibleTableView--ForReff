@@ -30,7 +30,7 @@ class HomeModel: NSObject {
         main.homeTableView.reloadData()
         main.homeTableView.layoutIfNeeded()
         main.homeTableHeight.constant = main.homeTableView.contentSize.height
-//        main.scrollView.contentSize = CGSize(width: main.view.frame.size.width, height: main.homeTableView.contentSize.height)
+
     }
     
 }
